@@ -2,7 +2,7 @@
 
 # 🎮 GODMODE
 
-**Cheat codes for students. Hidden unlocks: Free stuff, paid programs, research trips, weird competitions and creative skills that nobody tells you about.**
+**Cheat codes for students. Hidden unlocks: free stuff, paid programs, research trips, weird competitions and creative skills that nobody tells you about.**
 
 ↑ ↑ ↓ ↓ ← → ← → B A
 
