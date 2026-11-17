@@ -104,6 +104,9 @@ Tags: 💰 pays you · 🆓 free · ✈️ travel · 🇮🇳 India-friendly · 
 | [Teach Yourself CS](https://teachyourselfcs.com/) | One book and one lecture series per CS subject | 🆓 |
 | [Learn OpenGL](https://learnopengl.com/) | Write a 3D renderer from zero | 🆓 |
 | [Beej's Guides](https://beej.us/guide/) | Network programming in C, explained with jokes | 🆓 |
+| [The Odin Project](https://www.theodinproject.com/) | A free, project-based full-stack web development curriculum | 🆓 🌍 |
+| [fast.ai](https://course.fast.ai/) | Practical deep learning, coding first and theory second | 🆓 🌍 |
+| [MIT OpenCourseWare](https://ocw.mit.edu/) | Lectures, notes and problem sets from real MIT courses | 🆓 🌍 |
 
 ## 🎨 Creative coding
 
